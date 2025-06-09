@@ -133,8 +133,8 @@ The script will prompt for dataset paths:
 
 ### 1. Clone and Setup
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/djthegr8/CS771-Project-1
+cd CS771-Project-1
 
 # Install dependencies
 pip install numpy pandas scikit-learn joblib keras tensorflow
