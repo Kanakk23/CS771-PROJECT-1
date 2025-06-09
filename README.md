@@ -3,9 +3,9 @@
 
 ## Team Members
 - **Akshat Sharma** (230101)
-- **Praneel B Satare** (230774) 
-- **Kanak Khandelwal** (230520)
 - **Dweep Joshipura** (230395)
+- **Kanak Khandelwal** (230520)
+- **Praneel B Satare** (230774) 
 
 ## Project Overview
 
