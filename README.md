@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-This project implements a comprehensive machine learning pipeline for binary classification across three distinct feature representations of the same dataset. We explore classical ML approaches, deep learning techniques, and ensemble methods to achieve optimal performance across different data modalities.
+This project implements a comprehensive machine learning pipeline for binary classification across three distinct feature representations of the same dataset. We explore classical ML approaches, deep learning techniques, and ensemble methods to achieve optimal performance across different data modalities
 
 ### Key Contributions
 - **Multi-modal Analysis**: Comparative study across emoticon, deep features, and text sequence datasets
